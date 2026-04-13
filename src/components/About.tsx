@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I’m a full stack developer who likes building real, working products from scratch. I handle both frontend and backend, and I enjoy figuring things out when something breaks. Most of my time goes into writing code, fixing bugs, and improving how things work. I’m always trying to get better and build things that people actually find useful.
+          I’m a full stack developer who enjoys building clean, functional, and user-focused web applications. I work across both frontend and backend, turning ideas into real, working products. I like solving problems through code and constantly improving my skills with every project. Currently, I’m focused on building scalable applications and sharpening my development workflow.
         </p>
       </div>
     </div>
